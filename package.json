@@ -1,6 +1,6 @@
 {
   "name": "@ravenrebels/ravencoin-message",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Sign and Verify messages in Ravencoin",
   "source": "index.ts",
   "main": "dist/main.js",

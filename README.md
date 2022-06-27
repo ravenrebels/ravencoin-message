@@ -1,12 +1,21 @@
 # ravencoin-message
 
-Sign and Verify messages in Ravencoin
+Sign and Verify messages in Ravencoin in JavaScript, primarly for Node.js
 
-### If you want to use it in the browser, use Browserify
+## If you want to use it in the browser, use Browserify
 
 @ravenrebels/ravencoin-message is based on 'bitcoinjs-lib' which uses tons of Node stuff.
 
 To make that work in the browser you need to use Browserify
+
+## install
+
+```
+npm install @ravenrebels/ravencoin-message
+
+//If you need to sign messages,  install CoinKey
+npm install coinkey
+```
 
 ## How to use
 
