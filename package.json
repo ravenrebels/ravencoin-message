@@ -1,6 +1,6 @@
 {
   "name": "@ravenrebels/ravencoin-message",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Sign and Verify messages in Ravencoin",
   "source": "index.ts",
   "main": "dist/main.js",
@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/ravenrebels/ravencoin-message.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Ravencoin",
+    "RVN"
+  ],
   "author": "Dick Henrik Larsson / Raven Rebels",
   "license": "ISC",
   "bugs": {
